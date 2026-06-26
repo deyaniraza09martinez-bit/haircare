@@ -1,0 +1,4 @@
+com\haircare\Haircare.class
+com\haircare\conexion\Conexion.class
+com\haircare\Producto.class
+com\haircare\ProductoDAO.class
